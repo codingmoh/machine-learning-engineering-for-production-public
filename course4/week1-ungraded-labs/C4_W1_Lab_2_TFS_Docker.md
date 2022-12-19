@@ -1,6 +1,6 @@
-# Ungraded lab: First look at Tensorflow Serving with Docker
+# Lab: First look at Tensorflow Serving with Docker
 
-Welcome to this ungraded lab. Here you will take a look at using [Tensorflow Serving](https://www.tensorflow.org/tfx/guide/serving) with Docker. This is one of the easiest ways to get introduced to this awesome serving system for machine learning models since the image already contains all the necessary dependencies and configuration to run TFS out of the box.
+Here you will take a look at using [Tensorflow Serving](https://www.tensorflow.org/tfx/guide/serving) with Docker. This is one of the easiest ways to get introduced to this awesome serving system for machine learning models since the image already contains all the necessary dependencies and configuration to run TFS out of the box.
 
 In this lab you will be using TFS to deploy a dummy machine learning model locally. This lab is inspired by this official TF [tutorial](https://www.tensorflow.org/tfx/serving/docker).
 
